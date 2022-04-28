@@ -1,0 +1,18 @@
+{
+ "name": "TestBots_1",
+ "NFT_DNA": {
+  "1-2-1-1-5-4-0-2": {
+   "Complete": false
+  }
+ },
+ "NFT_Variants": {
+  "Background": "Background_1_100",
+  "Body": "Body Red_2_20",
+  "Eyes": "Eyes Blues_1_20",
+  "Feet": "Feet Blue_1_20",
+  "Hands": "Hands Gold_5_19",
+  "Head": "Head Pink_4_20",
+  "Legendary": "Empty",
+  "Legs": "Legs Red_2_20"
+ }
+}
